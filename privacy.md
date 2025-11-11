@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Política de Privacidad de Neo Expense
 
 **Fecha de última actualización:** 11 de noviembre de 2025
