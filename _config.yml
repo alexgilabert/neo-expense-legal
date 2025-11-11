@@ -1,6 +1,21 @@
+# --- Configuración del Tema ---
+# Esta línea le dice a GitHub Pages que use el tema "Minimal",
+# que es limpio y perfecto para documentos.
 theme: jekyll-theme-minimal
-title: GeoMind - Documentos Legales
-description: Políticas de privacidad, términos de servicio y más información legal para la aplicación GeoMind
-show_downloads: false
-logo: 
-markdown: kramdown
+
+# --- Metadatos del Sitio ---
+# Este será el título que aparece en la pestaña del navegador
+# y en la cabecera de la página.
+title: Neo Expense - Documentos Legales
+
+# Esta es una breve descripción del sitio, útil para los motores de búsqueda.
+description: Política de Privacidad y Términos y Condiciones de la aplicación Neo Expense.
+
+# --- Opcional: Logo ---
+# Si subes una imagen (ej. logo.png) a tu repositorio,
+# puedes descomentar la siguiente línea para que aparezca en la cabecera.
+# logo: logo.png
+
+# --- Opcional: Google Analytics ---
+# Si tienes un ID de Google Analytics, puedes ponerlo aquí.
+# google_analytics: TU_ID_DE_GOOGLE_ANALYTICS
