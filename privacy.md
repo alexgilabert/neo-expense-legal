@@ -49,7 +49,7 @@ La seguridad de tus datos es importante para nosotros. Usamos Supabase, que prop
 
 ### 5. Retención y Eliminación de Datos
 
-Retendremos tu información personal solo durante el tiempo que sea necesario para los fines establecidos en esta Política de Privacidad. Puedes solicitar la eliminación de tu cuenta y de todos tus datos asociados contactándonos a [TU_EMAIL_DE_SOPORTE].
+Retendremos tu información personal solo durante el tiempo que sea necesario para los fines establecidos en esta Política de Privacidad. Puedes solicitar la eliminación de tu cuenta y de todos tus datos asociados contactándonos a neoexpensesapp@gmail.com.
 
 ### 6. Privacidad de los Niños
 
