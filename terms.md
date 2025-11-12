@@ -35,13 +35,13 @@ Tú retienes todos los derechos sobre los datos de gastos que ingresas en la App
 
 ### 4. Limitación de Responsabilidad
 
-La App se proporciona "tal cual". En la máxima medida permitida por la ley, [Nombre de tu Empresa o tu Nombre de Desarrollador] renuncia a todas las garantías. No garantizamos que la App satisfaga tus necesidades o esté disponible de forma ininterrumpida o libre de errores.
+La App se proporciona "tal cual". En la máxima medida permitida por la ley, Neo Expenses renuncia a todas las garantías. No garantizamos que la App satisfaga tus necesidades o esté disponible de forma ininterrumpida o libre de errores.
 
 Neo Expense es una herramienta de seguimiento de gastos y no debe considerarse como asesoramiento financiero. No somos responsables de ninguna decisión financiera que tomes basada en el uso de la App.
 
 ### 5. Propiedad Intelectual
 
-La App, su apariencia, características y funcionalidad originales son y seguirán siendo propiedad exclusiva de [Nombre de tu Empresa o tu Nombre de Desarrollador].
+La App, su apariencia, características y funcionalidad originales son y seguirán siendo propiedad exclusiva de Neo Expenses.
 
 ### 6. Cambios a los Términos
 
@@ -50,5 +50,5 @@ Nos reservamos el derecho de modificar o reemplazar estos Términos en cualquier
 ### 7. Contacto
 
 Si tienes alguna pregunta sobre estos Términos, por favor contáctanos en:
-[TU_EMAIL_DE_SOPORTE]
-[Nombre de tu Empresa o tu Nombre de Desarrollador]
+neoexpensesapp@gmail.com
+Neo Expenses
