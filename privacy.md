@@ -62,5 +62,5 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Te notifica
 ### 8. Contacto
 
 Si tienes alguna pregunta sobre esta Política de Privacidad, por favor contáctanos en:
-[TU_EMAIL_DE_SOPORTE]
-[Nombre de tu Empresa o tu Nombre de Desarrollador]
+neoexpensesapp@gmail.com
+Neo Expenses
